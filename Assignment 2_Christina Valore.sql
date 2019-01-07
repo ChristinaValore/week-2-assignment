@@ -1,8 +1,8 @@
 /*Christina Valore
 Winter Bridge 2018
-12/23/18*/
+1/6/19*/
 
-/*Link to GitHub project: https://github.com/ChristinaValore/week-1-assignment */
+/*Link to GitHub project: https://github.com/ChristinaValore/week-2-assignment*/
 
 /*
 1. Videos table. Create one table to keep track of the videos. This table should include a unique ID, 
